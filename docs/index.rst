@@ -13,10 +13,6 @@ If you’re looking to **Webroot Download Already Purchased**, you’re not alon
 
 This guide will walk you through how to **Webroot Download Already Purchased**, retrieve your lost or misplaced keycode, and **Redownload Webroot with Keycode** in a secure and hassle-free way. Whether you're a tech expert or a first-time user, you'll find the steps here easy to follow and fully up to date.
 
-.. contents::
-   :local:
-   :depth: 2
-
 Why You Might Need to Redownload Webroot
 ----------------------------------------
 
