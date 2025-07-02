@@ -7,7 +7,6 @@ Redownload or Get Your Keycode | Webroot Download Already Purchased
        Get Started with Webroot
      </a>
    </div>
-
 If you’re looking to **Webroot Download Already Purchased**, you’re not alone. Many users need to reinstall or **Redownload Webroot with Keycode** after upgrading their device, recovering from a virus, or switching computers. Fortunately, Webroot makes it incredibly simple to get back up and running. All you need is your keycode and access to  
 `webroot.com/safe <https://www.webroot.com/safe>`_.
 
